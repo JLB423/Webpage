@@ -1,5 +1,5 @@
 # Webpage
-sample of a simple webpage
+see a sample of my simple webpage
 
 ### includes:
 
