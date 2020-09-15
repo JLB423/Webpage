@@ -3,11 +3,10 @@ sample of a simple webpage
 
 ### includes:
 
-index files
-
-CSS files
 
 HTML files 
+
+CSS files
 
 image files
 
